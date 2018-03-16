@@ -3,6 +3,10 @@ h1 {
   align-items: center;
 }
 
+.strong {
+  font-family: helvetica;
+}
+
 .jumbotron {
   margin-bottom: 0px;
 }
