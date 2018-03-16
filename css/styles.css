@@ -2,6 +2,16 @@ h1 {
   text-align: center;
   align-items: center;
 }
+
+.jumbotron {
+  margin-bottom: 0px;
+}
+
 .portfolio-title {
   font-style: italic;
+  margin: 0px;
+}
+
+.whitemoose {
+  padding-top: 10px;
 }
