@@ -3,8 +3,8 @@ h1 {
   align-items: center;
 }
 
-.strong {
-  font-family: helvetica;
+strong {
+  text-shadow: 3px 3px #ba4000;
 }
 
 .jumbotron {
