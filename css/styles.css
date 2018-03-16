@@ -9,6 +9,7 @@ h1 {
 
 .jumbotron {
   margin-bottom: 0px;
+  padding: 30px;
 }
 
 .portfolio-title {
@@ -17,5 +18,5 @@ h1 {
 }
 
 .whitemoose {
-  padding-top: 10px;
+  padding-top: 20px;
 }
