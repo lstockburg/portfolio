@@ -20,3 +20,11 @@ strong {
 .whitemoose {
   padding-top: 20px;
 }
+
+.col-md-4 {
+  min-height: 500px;
+}
+
+ul.link-list {
+  list-style-type: none;
+}
