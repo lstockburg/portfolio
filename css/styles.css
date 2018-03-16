@@ -26,7 +26,11 @@ strong {
   min-height: 500px;
 }
 
-ul.link-list {
+ol {
+  list-style-type: none;
+}
+
+ul {
   list-style-type: none;
 }
 
@@ -35,5 +39,12 @@ p img {
 }
 body p {
   font-size: 20px;
+}
 
+li {
+  font-size: 30px;
+}
+
+li link{
+  font-size: 10px;
 }
