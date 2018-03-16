@@ -10,6 +10,7 @@ strong {
 .jumbotron {
   margin-bottom: 0px;
   padding: 30px;
+  background-color: #86aeef;
 }
 
 .portfolio-title {
@@ -27,4 +28,12 @@ strong {
 
 ul.link-list {
   list-style-type: none;
+}
+
+p img {
+  float: left;
+}
+body p {
+  font-size: 20px;
+
 }
