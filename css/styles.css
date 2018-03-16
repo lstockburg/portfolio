@@ -23,7 +23,7 @@ strong {
 }
 
 .col-md-4 {
-  min-height: 500px;
+  min-height: 700px;
 }
 
 ol {
@@ -36,6 +36,7 @@ ul {
 
 p img {
   float: left;
+  padding-right: 20px;
 }
 body p {
   font-size: 20px;
@@ -45,6 +46,11 @@ li {
   font-size: 30px;
 }
 
-li link{
-  font-size: 10px;
+li a{
+  font-size: 15px;
+}
+
+col-md-2 {
+  padding: 0;
+
 }
