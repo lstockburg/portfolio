@@ -24,6 +24,7 @@ strong {
 
 .col-md-4 {
   min-height: 710px;
+  margin-bottom: 0;
 }
 
 ol {
@@ -56,4 +57,8 @@ col-md-3 {
 
 span {
   font-weight: bold;
+}
+
+.row-bottom {
+  background-color: yellow;
 }
