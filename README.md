@@ -4,6 +4,6 @@
 
 ### _Requirements: Web browser._
 
-### _Project: [link to portfolio](lstockburg.github.io/portfolio)_
+### _Project: [link to portfolio](https://lstockburg.github.io/portfolio)_
 
 ### _This is a portfolio demonstrating what I have learned so far in Epicodus. Week one will demonstrate html, css, and bootstrap applications._
